@@ -11,7 +11,7 @@
 - **Languages:** Python, SQL  
 - **Machine Learning:** Scikit-learn, XGBoost, TensorFlow, Keras, CNN, LSTM  
 - **Visualization:** Tableau, Matplotlib, Seaborn  
-- **Data Handling:** Pandas, NumPy, Feature Engineering, EDA  
+- **Data Handling:** Pandas, NumPy, Feature Engineering, EDA
 - **Tools:** Jupyter, Git, Excel, ServiceNow, Moogsoft  
 
 ---
