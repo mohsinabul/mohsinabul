@@ -1,49 +1,55 @@
-#  Hi, I'm Abul Mohsin
+# Hi, I'm Abul Mohsin
 
- MSc Data Science student at Atlantic Technological University, Ireland  
- Former IT Analyst @ HCL | Data Enthusiast | Open to Graduate/Intern Roles  
- Based in Dublin | Passionate about solving real-world problems using data
-
----
-
-##  Skills & Technologies
-
-- **Languages:** Python, SQL  
-- **Machine Learning:** Scikit-learn, XGBoost, TensorFlow, Keras, CNN, LSTM  
-- **Visualization:** Tableau, Matplotlib, Seaborn  
-- **Data Handling:** Pandas, NumPy, Feature Engineering, EDA
-- **Tools:** Jupyter, Git, Excel, ServiceNow, Moogsoft  
+MSc Data Science Graduate | Atlantic Technological University, Ireland  
+Former IT Analyst @ HCL Technologies | Data and IT Enthusiast  
+Based in Dublin | Open to Data Analyst and IT Support Roles  
 
 ---
 
-##  Featured Projects
+## Skills & Technologies
 
-###  [Bank Transaction Fraud Detection]([https://github.com/YOUR_PROJECT_LINK]([https://github.com/mohsinabul/Bank-Transaction-Fraud-Detection])
-Deep learning model using CNN + LSTM to identify fraud with over 90% recall.
-
-###  [Sentiment Analysis on E-Commerce Reviews]([https://github.com/YOUR_PROJECT_LINK]([https://github.com/Machine-Learning-MScDataScience-ATU/machine-learning-project-oisin-and-abul])
-Classified product review sentiment using NLP and visualized results in a dashboard.
-
-###  [Customer CLV & Churn Prediction]([https://github.com/YOUR_PROJECT_LINK](https://github.com/mohsinabul/ecommerce-clv-churn-predictor])
-Predicted churn using XGBoost with SMOTE and cohort analysis.
-
-###  [Cancer Classification using ML]([https://github.com/YOUR_PROJECT_LINK](https://github.com/mohsinabul/Cancer-Classification-using-ML])
-Built an ensemble classifier (SVM + XGBoost + Logistic Regression) for disease detection.
+- Programming & Data: Python, SQL, Pandas, NumPy, Feature Engineering, EDA  
+- Machine Learning & AI: Scikit-learn, XGBoost, TensorFlow, Keras, CNN, LSTM  
+- Visualisation: Tableau, Power BI, Matplotlib, Seaborn  
+- IT Tools: Excel (Advanced), ServiceNow, Moogsoft, Microsoft 365, Intune (basic)  
+- Other: Git, Jupyter, PowerShell (basic scripting)  
 
 ---
 
-##  Current Focus
+## Featured Projects
 
-- Enhancing ML/DL skills through projects and competitions  
-- Actively seeking Data Science internships and graduate opportunities for 2025  
-- Sharing my learning journey via GitHub and LinkedIn
+### [Smart Meter Load Forecasting with Lightweight Transformers](https://github.com/mohsinabul/Smart-Meter-Forecasting)  
+Built and compared forecasting models (TinyFormer, LiteFormer, LiPFormer, LSTM) for smart meter data. Achieved 60% faster inference while maintaining accuracy. Integrated SHAP explainability and Docker-based edge deployment.  
+
+### [Bank Transaction Fraud Detection](https://github.com/mohsinabul/Bank-Transaction-Fraud-Detection)  
+Hybrid deep learning model (CNN + LSTM) applied on sequential transaction data. Achieved 90%+ recall, reducing undetected fraudulent cases.  
+
+### [Sentiment Analysis on E-Commerce Reviews](https://github.com/Machine-Learning-MScDataScience-ATU/machine-learning-project-oisin-and-abul)  
+Applied NLP with TF-IDF and classification models (Logistic Regression, Naive Bayes). Achieved 85% accuracy and built a sentiment dashboard.  
+
+### [Customer CLV & Churn Prediction](https://github.com/mohsinabul/ecommerce-clv-churn-predictor)  
+Used XGBoost with SMOTE and cohort analysis to improve churn recall to 84 percent, supporting customer retention strategies.  
+
+### [Cancer Classification using ML](https://github.com/mohsinabul/Cancer-Classification-using-ML)  
+Ensemble model combining SVM, XGBoost, and Logistic Regression for cancer detection, improving robustness and accuracy.  
 
 ---
 
-##  Let’s Connect
+## Current Focus
 
--  [LinkedIn](https://www.linkedin.com/in/abul-mohsin)
--  mohsinabul786@gmail.com  
--  [My Portfolio](https://github.com/mohsinabul)
+- Expanding expertise in data analysis, forecasting, and IT support automation  
+- Preparing for Microsoft 365 (MS-900) and Azure Fundamentals (AZ-900) certifications  
+- Actively applying for Data Analyst and IT Support roles in Ireland  
+- Sharing projects and learnings on GitHub and LinkedIn  
 
-Thanks for visiting my profile! 🌟
+---
+
+## Let’s Connect
+
+- LinkedIn: linkedin.com/in/abul-mohsin
+- Email: atu.abul@gmail.com  
+- Portfolio: datascienceportfol.io/atuabul  
+
+---
+
+Thanks for visiting my profile.
