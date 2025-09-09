@@ -18,7 +18,7 @@ Based in Dublin | Open to Data Analyst and IT Support Roles
 
 ## Featured Projects
 
-### [Smart Meter Load Forecasting with Lightweight Transformers](https://github.com/mohsinabul/Smart-Meter-Forecasting)  
+### [Smart Meter Load Forecasting with Lightweight Transformers](https://github.com/mohsinabul/Edge-Smart-Meter)  
 Built and compared forecasting models (TinyFormer, LiteFormer, LiPFormer, LSTM) for smart meter data. Achieved 60% faster inference while maintaining accuracy. Integrated SHAP explainability and Docker-based edge deployment.  
 
 ### [Bank Transaction Fraud Detection](https://github.com/mohsinabul/Bank-Transaction-Fraud-Detection)  
@@ -46,9 +46,9 @@ Ensemble model combining SVM, XGBoost, and Logistic Regression for cancer detect
 
 ## Let’s Connect
 
-- LinkedIn: linkedin.com/in/abul-mohsin
-- Email: atu.abul@gmail.com  
-- Portfolio: datascienceportfol.io/atuabul  
+- LinkedIn: [linkedin.com/in/abul-mohsin](https://www.linkedin.com/in/abul-mohsin)  
+- Email: mohsinabul786@gmail.com  
+- [ortfolio](datascienceportfol.io/atuabul) 
 
 ---
 
