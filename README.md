@@ -48,7 +48,7 @@ Ensemble model combining SVM, XGBoost, and Logistic Regression for cancer detect
 
 - LinkedIn: [linkedin.com/in/abul-mohsin](https://www.linkedin.com/in/abul-mohsin)  
 - Email: mohsinabul786@gmail.com  
-- [ortfolio](datascienceportfol.io/atuabul) 
+- Portfolio: [Portfolio](datascienceportfol.io/atuabul) 
 
 ---
 
